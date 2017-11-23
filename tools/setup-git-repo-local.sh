@@ -39,6 +39,9 @@ read FILEPROPS
 
 FILEPROPS=`validateBoolString "$FILEPROPS"`
 
+echo ""
+echo ""
+
 # ------- errors
 #
 
